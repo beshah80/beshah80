@@ -4,7 +4,7 @@ I'm Beshah, a **4th-year Information Systems student** from Ethiopia at Addis Ab
 As a **Front-End Developer**, I’m passionate about crafting **responsive, pixel-perfect web experiences** with **React.js, Next.js, Tailwind CSS**, and more. Outside of code, I’m a coffee lover ☕ who enjoys translating English ↔ Amharic to connect people across cultures.  
 
 📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/beshah-ashenafi) | [GitHub](https://github.com/beshah80) | [Upwork](https://www.upwork.com/freelancers/~01beshah) | 📧 [Email](mailto:beshah2017@gmail.com) | 📱 WhatsApp: +251948100497  
+[LinkedIn](https://www.linkedin.com/in/beshah-ashenafi-a21743367/) | [GitHub](https://github.com/beshah80) | [Upwork](https://www.upwork.com/freelancers/~01beshah) | 📧 [Email](mailto:beshah2017@gmail.com) | 📱 WhatsApp: +251948100497  
 
 ---
 
