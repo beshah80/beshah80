@@ -1,179 +1,155 @@
-# 👋 Hey There, I’m Beshah Ashenafi  
+# Hi there, I'm Beshah Ashenafi 👋
 
-I'm Beshah, a **4th-year Information Systems student** from Ethiopia at Addis Ababa University 🎓 (graduating June 2026).  
-As a **Front-End Developer**, I’m passionate about crafting **responsive, pixel-perfect web experiences** with **React.js, Next.js, Tailwind CSS**, and more. Outside of code, I’m a coffee lover ☕ who enjoys translating English ↔ Amharic to connect people across cultures.  
+<div align="center">
 
-📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/beshah-ashenafi-a21743367/) | [GitHub](https://github.com/beshah80) | [Upwork](https://www.upwork.com/freelancers/~01beshah) | 📧 [Email](mailto:beshah2017@gmail.com) | 📱 WhatsApp: +251948100497  
+### 🎓 Information Systems Student | 💻 Front-End Developer | 🌍 Ethiopia
 
----
+*Crafting digital experiences one line of code at a time*
 
-## 🚀 Explore My GitHub Universe 🌌  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshah-ashenafi)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80)
+[![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01beshah)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beshah2017@gmail.com)
 
-### 👨‍💻 About Me  
-💡 **What I Love**:  
-- 🎨 Front-End Development & UI/UX Design  
-- 🌐 Building Responsive Web Interfaces  
-- ✍️ Writing Clear, User-Friendly Copy  
-- 🌍 Translating English ↔ Amharic  
-
-🎯 **Fun Fact**: I believe great code is like a good Ethiopian coffee—carefully crafted, bold, and leaves you wanting more!  
+</div>
 
 ---
 
-## 🛠 My Tech Stack  
+## 🚀 About Me
 
-**Front-End Tools**  
-- HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap  
-
-**Programming Foundations**  
-- C++ • C# • Java • PHP • MySQL • SQL  
-
-**Computer Science Skills**  
-- Data Structures • Algorithms • System Analysis • Operating Systems  
-
-**Soft Skills**  
-- Teamwork • Communication • Problem-Solving • Time Management  
+- 🎓 **4th-year Information Systems** student at Addis Ababa University (Graduating June 2026)
+- 💻 Passionate **Front-End Developer** specializing in **React.js** and **Next.js**
+- 🎨 Love creating **responsive, pixel-perfect** web experiences
+- ☕ Coffee enthusiast who believes great code is like Ethiopian coffee—**bold and memorable**
+- 🌍 English ↔ Amharic translator connecting cultures through language
 
 ---
 
-## 📊 My GitHub Stats  
+## 🛠️ Tech Stack
 
-![Beshah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beshah80&layout=compact&theme=radical)  
+<div align="center">
 
----
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-## 🏆 Featured Projects  
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-- **Chat App**  
-  A real-time messaging platform with public and private chat rooms, designed for seamless communication.  
-  🔧 *Tech: Next.js, Prisma, PostgreSQL, Socket.IO*  
+### Programming Languages
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
-- **PhoneSell E-commerce Platform**  
-  A full-stack app for buying and selling phones, featuring secure payments and user-friendly profiles.  
-  🔧 *Tech: React.js, Node.js, MongoDB, Express.js*  
-
-- **Adheno Non-Profit Website**  
-  A responsive site for an NGO, built to promote community initiatives with a clean, accessible design.  
-  🔧 *Tech: HTML5, CSS3, JavaScript, PHP*  
-
-- **Blog Post Platform**  
-  A dynamic blog with user authentication, enabling easy content creation and management.  
-  🔧 *Tech: Next.js, Tailwind CSS, JavaScript*  
-
-- **To-Do List App**  
-  A simple yet powerful task manager with full CRUD functionality for staying organized.  
-  🔧 *Tech: React.js, CSS3*  
-
-- **Tic-Tac-Toe Game**  
-  A fun, interactive two-player game with a modern, responsive interface.  
-  🔧 *Tech: Next.js, Tailwind CSS*  
+</div>
 
 ---
 
-## 🤝 Let’s Build Together  
+## 📊 GitHub Analytics
 
-🌍 I’m excited to collaborate on innovative projects! Dive into my repositories, fork projects, or share your ideas via issues/PRs. Every contribution makes an impact.  
+<div align="center">
 
-⭐ Love what you see? Star my projects to show some love!  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshah80&layout=compact&langs_count=7&theme=tokyonight"/>
 
----
+</div>
 
-## ✨ My Motto  
+<div align="center">
 
-💡 *“Crafting the future, one pixel Sir, I apologize for my oversight. Here's the corrected version of the README with the project links as placeholders (`#`) and further refinements for clarity, flow, and visual polish:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=beshah80&theme=tokyonight)
 
-<xaiArtifact artifact_id="5e486894-c3d6-4b07-8290-c220da2f3a64" artifact_version_id="2aafda42-cecc-45d6-8275-46db9839862b" title="README.md" contentType="text/markdown">
-
-# 👋 Hey There, I’m Beshah Ashenafi  
-
-I'm Beshah, a **4th-year Information Systems student** from Ethiopia at Addis Ababa University 🎓 (graduating June 2026).  
-As a **Front-End Developer**, I’m passionate about crafting **responsive, pixel-perfect web experiences** with **React.js, Next.js, Tailwind CSS**, and more. Outside of code, I’m a coffee lover ☕ who enjoys translating English ↔ Amharic to connect people across cultures.  
-
-📫 **Let’s Connect:**  
-[LinkedIn](https://www.linkedin.com/in/beshah-ashenafi) | [GitHub](https://github.com/beshah80) | [Upwork](https://www.upwork.com/freelancers/~01beshah) | 📧 [Email](mailto:beshah2017@gmail.com) | 📱 WhatsApp: +251948100497  
+</div>
 
 ---
 
-## 🚀 Explore My GitHub Universe 🌌  
+## 🏆 Featured Projects
 
-### 👨‍💻 About Me  
-💡 **What I Love**:  
-- 🎨 Front-End Development & UI/UX Design  
-- 🌐 Building Responsive Web Interfaces  
-- ✍️ Writing Clear, User-Friendly Copy  
-- 🌍 Translating English ↔ Amharic  
+<table>
+<tr>
+<td width="50%">
 
-🎯 **Fun Fact**: I believe great code is like a good Ethiopian coffee—carefully crafted, bold, and leaves you wanting more!  
+### 💬 Real-Time Chat App
+A full-featured messaging platform with public/private rooms, real-time communication, and modern UI.
 
----
+**Tech Stack:** `Next.js` `Prisma` `PostgreSQL` `Socket.IO`
 
-## 🛠 My Tech Stack  
+🔗 [View Project](#) | [Live Demo](#)
 
-**Front-End Tools**  
-- HTML5 • CSS3 • JavaScript • React.js • Next.js • Tailwind CSS • Bootstrap  
+</td>
+<td width="50%">
 
-**Programming Foundations**  
-- C++ • C# • Java • PHP • MySQL • SQL  
+### 📱 PhoneSell E-commerce
+Complete marketplace for buying/selling phones with secure payments and user profiles.
 
-**Computer Science Skills**  
-- Data Structures • Algorithms • System Analysis • Operating Systems  
+**Tech Stack:** `React.js` `Node.js` `MongoDB` `Express.js`
 
-**Soft Skills**  
-- Teamwork • Communication • Problem-Solving • Time Management  
+🔗 [View Project](#) | [Live Demo](#)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 📊 My GitHub Stats  
+### 🌐 Adheno NGO Website
+Responsive website for non-profit organization with clean, accessible design.
 
-![Beshah's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beshah80&layout=compact&theme=radical)  
+**Tech Stack:** `HTML5` `CSS3` `JavaScript` `PHP`
 
----
+🔗 [View Project](#) | [Live Demo](#)
 
-## 🏆 Featured Projects  
+</td>
+<td width="50%">
 
-- **Chat App**  
-  A real-time messaging platform with public and private chat rooms, designed for seamless communication.  
-  🔧 *Tech: Next.js, Prisma, PostgreSQL, Socket.IO*  
-  [View Project](#)  
+### ✍️ Blog Platform
+Dynamic blog with authentication, content management, and responsive design.
 
-- **PhoneSell E-commerce Platform**  
-  A full-stack app for buying and selling phones, featuring secure payments and user-friendly profiles.  
-  🔧 *Tech: React.js, Node.js, MongoDB, Express.js*  
-  [View Project](#)  
+**Tech Stack:** `Next.js` `Tailwind CSS` `JavaScript`
 
-- **Adheno Non-Profit Website**  
-  A responsive site for an NGO, built to promote community initiatives with a clean, accessible design.  
-  🔧 *Tech: HTML5, CSS3, JavaScript, PHP*  
-  [View Project](#)  
+🔗 [View Project](#) | [Live Demo](#)
 
-- **Blog Post Platform**  
-  A dynamic blog with user authentication, enabling easy content creation and management.  
-  🔧 *Tech: Next.js, Tailwind CSS, JavaScript*  
-  [View Project](#)  
+</td>
+</tr>
+</table>
 
-- **To-Do List App**  
-  A simple yet powerful task manager with full CRUD functionality for staying organized.  
-  🔧 *Tech: React.js, CSS3*  
-  [View Project](#)  
+<div align="center">
 
-- **Tic-Tac-Toe Game**  
-  A fun, interactive two-player game with a modern, responsive interface.  
-  🔧 *Tech: Next.js, Tailwind CSS*  
-  [View Project](#)  
+### 🎮 More Projects
+[**Task Manager**](#) • [**Tic-Tac-Toe Game**](#) • [**Portfolio Website**](#)
+
+</div>
 
 ---
 
-## 🤝 Let’s Build Together  
+## 🤝 Let's Connect & Collaborate
 
-🌍 I’m excited to collaborate on innovative projects! Dive into my repositories, fork projects, or share your ideas via issues/PRs. Every contribution makes an impact.  
+<div align="center">
 
-⭐ Love what you see? Star my projects to show some love!  
+> *"In the world of code, every bug is just an opportunity to learn something new"*
+
+**Open to:**
+- 🚀 Frontend development opportunities
+- 🤝 Open source collaborations  
+- 💼 Freelance projects
+- 🎓 Mentorship and learning
+
+**Contact Info:**
+- 📧 Email: beshah2017@gmail.com
+- 📱 WhatsApp: +251948100497
+- 💼 Available for remote work
 
 ---
 
-## ✨ My Motto  
+⭐ **Found something interesting?** Give it a star and let's build something amazing together!
 
-💡 *“Crafting the future, one pixel and commit at a time.”* 🚀
+*Thanks for stopping by! Happy coding! 🚀*
+
+</div>
