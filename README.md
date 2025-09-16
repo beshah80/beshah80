@@ -15,6 +15,9 @@
 [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/~01beshah)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:beshah2017@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=beshah80&label=Profile%20views&color=0e75b6&style=flat)
+[![GitHub followers](https://img.shields.io/github/followers/beshah80?label=Followers&style=social)](https://github.com/beshah80?tab=followers)
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
@@ -27,16 +30,18 @@
 
 <img src="https://img.shields.io/badge/🎯%20Focus-Frontend%20Development-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/💼%20Status-Available%20for%20Work-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🎓%20Graduation-June%202026-orange?style=for-the-badge" />
 
 <br/><br/>
 
-- 🎓 **4th-year Information Systems** student at Addis Ababa University (Graduating June 2026)
-- 🎨 **Frontend Developer** crafting exceptional user experiences with **React.js** and **Next.js**
-- ✨ Specializing in **modern web interfaces** with pixel-perfect precision
-- 🌟 Expert in **responsive design** and **interactive user interfaces**
-- 🌍 **English ↔ Amharic** translator bridging cultures through language
-- 🚀 Passionate about **cutting-edge frontend technologies** and **design systems**
-- 💡 Transforming ideas into **beautiful, functional web applications**
+- 🎓 **4th-year Information Systems** student at Addis Ababa University
+- 🎨 **Frontend Developer** with **3+ years** of hands-on experience
+- ⚛️ **React.js & Next.js Specialist** creating scalable web applications
+- ✨ **UI/UX Expert** with pixel-perfect design implementation skills
+- 🌟 **Responsive Design** and **Modern Web Standards** advocate  
+- 🌍 **Bilingual Professional** - English ↔ Amharic translation services
+- 🚀 **Open Source Contributor** passionate about community-driven development
+- 💡 **Problem Solver** transforming complex ideas into elegant solutions
 
 <br clear="both"/>
 
@@ -53,16 +58,20 @@
 ### 🎨 Frontend Mastery
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap,sass&theme=dark" />
 
+![React](https://img.shields.io/badge/React-Advanced-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat&logo=typescript&logoColor=white)
+
 ### 🎯 UI/UX & Design
 <img src="https://skillicons.dev/icons?i=figma,photoshop,xd,illustrator&theme=dark" />
 
-### ⚡ Modern JavaScript
+### ⚡ Modern JavaScript Ecosystem
 <img src="https://skillicons.dev/icons?i=typescript,nodejs,npm,yarn,webpack,vite&theme=dark" />
 
-### 🛠️ Development Tools
+### 🛠️ Development & Deployment
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,firebase&theme=dark" />
 
-### 🎛️ Additional Skills
+### 🗄️ Backend & Database
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma,php&theme=dark" />
 
 </div>
@@ -94,6 +103,10 @@
 
 <br/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com?user=beshah80&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=70a5fd&fire=bf91f3&currStreakNum=38bdae&sideNums=38bdae&currStreakLabel=70a5fd&sideLabels=70a5fd&dates=38bdae"/>
+
+<br/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=beshah80&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7"/>
 
 <br/>
@@ -108,21 +121,34 @@
 
 <div align="center">
 
+### 🚀 **Flagship Applications**
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💬 Real-Time Chat App
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
+### 💬 Real-Time Chat Platform
+<img src="https://img.shields.io/badge/Status-Live%20Production-success?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Type-Full%20Stack-blue?style=flat-square&logo=react" />
 
-A full-featured messaging platform with public/private rooms, real-time communication, Socket.IO integration, and modern UI.
+🔥 **Professional-grade messaging platform** with global & private chat rooms, real-time communication via Socket.IO, user authentication, and responsive mobile-first design.
 
-**🛠️ Built with:** `Next.js` `Prisma` `PostgreSQL` `Socket.IO` `Tailwind CSS`
+**🛠️ Tech Stack:**
+- `Next.js 15` `TypeScript` `Tailwind CSS`
+- `Prisma ORM` `PostgreSQL` `Socket.IO`
+- `JWT Authentication` `Responsive Design`
+
+**✨ Key Features:**
+- Real-time messaging & typing indicators
+- User presence & online status
+- Global chat room auto-join
+- Private messaging system
+- Mobile-responsive UI
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-app-final-eji4.vercel.app/)
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/Chat_App)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://chat-app-final-eji4.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/Chat_App)
 
 </div>
 
@@ -131,14 +157,25 @@ A full-featured messaging platform with public/private rooms, real-time communic
 
 ### 📱 PhoneSell E-commerce
 <img src="https://img.shields.io/badge/Status-Complete-blue?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Type-Full%20Stack-orange?style=flat-square&logo=mongodb" />
 
-Complete marketplace for buying/selling phones with secure authentication, user profiles, and intuitive shopping experience.
+🛒 **Complete marketplace solution** for buying/selling mobile phones with secure user authentication, profile management, and intuitive shopping experience.
 
-**🛠️ Built with:** `React.js` `Node.js` `MongoDB` `Express.js` `Bootstrap`
+**🛠️ Tech Stack:**
+- `React.js` `Node.js` `Express.js`
+- `MongoDB` `JWT Auth` `Bootstrap`
+- `RESTful API` `File Upload`
+
+**✨ Key Features:**
+- User registration & authentication
+- Product listing & management
+- Shopping cart functionality
+- User profiles & dashboards
+- Responsive design
 
 <div align="center">
 
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/phoneShop)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/phoneShop)
 
 </div>
 
@@ -149,32 +186,54 @@ Complete marketplace for buying/selling phones with secure authentication, user 
 
 ### 🌐 Adheno NGO Website
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=github" />
+<img src="https://img.shields.io/badge/Type-Frontend-green?style=flat-square&logo=html5" />
 
-Responsive website for non-profit organization promoting community initiatives with clean, accessible design and modern aesthetics.
+🏛️ **Professional non-profit website** promoting community development initiatives with clean, accessible design and modern web standards.
 
-**🛠️ Built with:** `HTML5` `CSS3` `JavaScript` `PHP` `Responsive Design`
+**🛠️ Tech Stack:**
+- `HTML5` `CSS3` `JavaScript`
+- `PHP` `Responsive Design`
+- `SEO Optimized` `Accessibility`
+
+**✨ Key Features:**
+- Multi-page responsive layout
+- Contact form integration
+- SEO-optimized content
+- Accessibility compliance
+- Cross-browser compatibility
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://beshah80.github.io/adheno/#/home)
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/adheno)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://beshah80.github.io/adheno/#/home)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/adheno)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### ✍️ Blog Platform
+### ✍️ Modern Blog Platform
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Type-Full%20Stack-purple?style=flat-square&logo=nextjs" />
 
-Dynamic blog with authentication, content management, responsive design, and seamless user experience for content creators.
+📝 **Dynamic blogging platform** with content management system, user authentication, and seamless reading experience for content creators and readers.
 
-**🛠️ Built with:** `Next.js` `Tailwind CSS` `TypeScript` `Authentication`
+**🛠️ Tech Stack:**
+- `Next.js` `TypeScript` `Tailwind CSS`
+- `Authentication` `Content Management`
+- `SEO Optimization` `Dark Mode`
+
+**✨ Key Features:**
+- Dynamic content management
+- User authentication system
+- Responsive blog layouts
+- SEO-friendly structure
+- Modern UI/UX design
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://my-blog-post-nextjs-otwe.vercel.app/)
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/myBlog-post-nextjs)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://my-blog-post-nextjs-otwe.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/myBlog-post-nextjs)
 
 </div>
 
@@ -183,34 +242,56 @@ Dynamic blog with authentication, content management, responsive design, and sea
 <tr>
 <td width="50%" valign="top">
 
-### 🏠 Decor Website
+### 🏠 Interior Design Showcase
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Type-Frontend-cyan?style=flat-square&logo=css3" />
 
-Modern interior design showcase website with elegant UI, portfolio gallery, and responsive design for decoration services.
+🎨 **Elegant interior design portfolio** showcasing decoration services with beautiful gallery layouts and responsive design for optimal viewing experience.
 
-**🛠️ Built with:** `HTML5` `CSS3` `JavaScript` `Responsive Design`
+**🛠️ Tech Stack:**
+- `HTML5` `CSS3` `JavaScript`
+- `Responsive Design` `Image Optimization`
+- `Performance Optimized`
+
+**✨ Key Features:**
+- Portfolio gallery system
+- Responsive image galleries
+- Service showcase pages
+- Contact integration
+- Modern aesthetic design
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://agos-decor.vercel.app/)
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/agos_decor)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://agos-decor.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/agos_decor)
 
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Tic-Tac-Toe Game
+### 🎮 Interactive Tic-Tac-Toe
 <img src="https://img.shields.io/badge/Status-Live-success?style=flat-square&logo=vercel" />
+<img src="https://img.shields.io/badge/Type-Game-red?style=flat-square&logo=react" />
 
-Interactive two-player game with modern UI, smooth animations, and responsive design for an engaging gaming experience.
+🕹️ **Modern two-player game** with sleek animations, game state management, and responsive design providing engaging gaming experience across all devices.
 
-**🛠️ Built with:** `Next.js` `Tailwind CSS` `React Hooks` `Game Logic`
+**🛠️ Tech Stack:**
+- `Next.js` `TypeScript` `Tailwind CSS`
+- `React Hooks` `Game Logic`
+- `State Management` `Animations`
+
+**✨ Key Features:**
+- Two-player gameplay
+- Game state persistence
+- Smooth animations
+- Score tracking
+- Responsive gaming UI
 
 <div align="center">
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-nine-rust-54.vercel.app/)
-[![View Code](https://img.shields.io/badge/View%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/tic-tac-toe)
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://tic-tac-toe-nine-rust-54.vercel.app/)
+[![Source Code](https://img.shields.io/badge/📁%20Source%20Code-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beshah80/tic-tac-toe)
 
 </div>
 
@@ -218,37 +299,64 @@ Interactive two-player game with modern UI, smooth animations, and responsive de
 </tr>
 </table>
 
-### 🌟 Portfolio Showcase
-[![Portfolio Website](https://img.shields.io/badge/View%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B)](https://my-portfolio-rose-two-35.vercel.app/)
+### 🌟 Professional Portfolio
+<div align="center">
+<img src="https://img.shields.io/badge/🎯%20Complete%20Portfolio%20Experience-gold?style=for-the-badge&logo=vercel&logoColor=black" />
+
+[![View Portfolio](https://img.shields.io/badge/🚀%20Explore%20My%20Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white&labelColor=FF6B6B)](https://my-portfolio-rose-two-35.vercel.app/)
+</div>
 
 </div>
 
 ---
 
-## 🎯 What I'm Passionate About
+## 🎯 Development Philosophy
 
 <div align="center">
 
 ```javascript
-const beshah = {
-  title: "Frontend Developer & UI/UX Enthusiast",
-  code: ["JavaScript", "TypeScript", "React", "Next.js"],
-  technologies: {
+const besnahDeveloperProfile = {
+  name: "Beshah Ashenafi",
+  title: "Frontend Developer & UI/UX Specialist",
+  
+  expertise: {
     frontend: {
       frameworks: ["React", "Next.js", "React Native"],
       styling: ["Tailwind CSS", "Styled Components", "SASS", "CSS3"],
-      tools: ["Webpack", "Vite", "Babel", "ESLint", "Prettier"]
+      tools: ["TypeScript", "Webpack", "Vite", "ESLint", "Prettier"],
+      testing: ["Jest", "React Testing Library", "Cypress"]
     },
+    
     design: {
       tools: ["Figma", "Adobe XD", "Photoshop", "Illustrator"],
-      skills: ["UI Design", "UX Research", "Prototyping", "Design Systems"]
+      skills: ["UI Design", "UX Research", "Prototyping", "Design Systems"],
+      principles: ["Mobile-First", "Accessibility", "Performance", "Usability"]
     },
-    deployment: ["Vercel", "Netlify", "Firebase", "GitHub Pages"],
-    currentFocus: "Creating exceptional user experiences with modern frontend technologies",
-    passion: "Transforming creative visions into interactive, responsive web experiences"
+    
+    backend: {
+      databases: ["PostgreSQL", "MongoDB", "MySQL"],
+      apis: ["REST", "GraphQL", "Socket.IO"],
+      tools: ["Prisma", "Node.js", "Express.js"]
+    },
+    
+    deployment: ["Vercel", "Netlify", "Firebase", "GitHub Pages", "Docker"]
   },
-  mindset: "Design thinking meets clean code",
-  motto: "Pixel perfect is the only perfect"
+  
+  currentFocus: [
+    "Creating exceptional user experiences",
+    "Building scalable React applications", 
+    "Implementing modern design systems",
+    "Contributing to open source projects"
+  ],
+  
+  values: {
+    codeQuality: "Clean, maintainable, and well-documented code",
+    userExperience: "Intuitive and accessible interfaces",
+    performance: "Fast, optimized, and responsive applications",
+    collaboration: "Effective teamwork and knowledge sharing"
+  },
+  
+  motto: "Pixel perfect is the only perfect ✨"
 };
 ```
 
@@ -256,7 +364,44 @@ const beshah = {
 
 ---
 
-## 🤝 Let's Connect & Build Something Amazing
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+**🔥 Contribution Stats**
+
+![](https://github-contributor-stats.vercel.app/api?username=beshah80&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+</td>
+<td align="center" width="50%">
+
+**⚡ Development Metrics**
+
+![](https://github-readme-stats.vercel.app/api/wakatime?username=beshah80&theme=tokyonight&hide_border=true&bg_color=1a1b27)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+**📊 Detailed Repository Insights**
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beshah80&theme=tokyonight)
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
 
 <div align="center">
 
@@ -268,43 +413,50 @@ const beshah = {
 <tr>
 <td width="50%" align="center">
 
-### 💼 Open to Opportunities
+### 💼 Currently Available For
 
-<img src="https://img.shields.io/badge/💼%20Currently%20Available-37a779?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20Open%20to%20Opportunities-37a779?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
-<table>
-<tr><td align="left">🎨</td><td align="left"><strong>Frontend Development Projects</strong></td></tr>
-<tr><td align="left">✨</td><td align="left"><strong>UI/UX Design Collaborations</strong></td></tr>
-<tr><td align="left">⚛️</td><td align="left"><strong>React & Next.js Specializations</strong></td></tr>
-<tr><td align="left">🚀</td><td align="left"><strong>Modern Web Applications</strong></td></tr>
-<tr><td align="left">🤝</td><td align="left"><strong>Open Source Contributions</strong></td></tr>
-<tr><td align="left">💼</td><td align="left"><strong>Freelance Opportunities</strong></td></tr>
-<tr><td align="left">🎓</td><td align="left"><strong>Mentorship & Learning</strong></td></tr>
-</table>
+| 🎯 | **Opportunity Type** |
+|:---:|:---|
+| 🎨 | **Frontend Development Projects** |
+| ⚛️ | **React & Next.js Specializations** |
+| ✨ | **UI/UX Design & Implementation** |
+| 🏢 | **Full-time Frontend Positions** |
+| 🚀 | **Freelance Web Development** |
+| 🤝 | **Open Source Collaborations** |
+| 📚 | **Mentorship & Code Reviews** |
+| 🌍 | **Remote Work Opportunities** |
+
+<br/>
+
+<img src="https://img.shields.io/badge/⚡%20Quick%20Response-blue?style=flat&logo=rocket&logoColor=white" />
+<img src="https://img.shields.io/badge/🌍%20Remote%20Ready-success?style=flat&logo=zoom&logoColor=white" />
 
 </td>
 <td width="50%" align="center">
 
-### 📫 Connect With Me
+### 📫 Get In Touch
 
-<img src="https://img.shields.io/badge/📱%20Let's%20Chat-4285f4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/📱%20Let's%20Connect-4285f4?style=for-the-badge&logoColor=white" />
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beshah2017@gmail.com)
-
-[![WhatsApp](https://img.shields.io/badge/💬%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/251948100497)
-
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshah-ashenafi)
-
-[![Upwork](https://img.shields.io/badge/🔗%20Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01beshah)
+| Platform | Contact |
+|:---:|:---|
+| 📧 | **[beshah2017@gmail.com](mailto:beshah2017@gmail.com)** |
+| 💬 | **[WhatsApp: +251948100497](https://wa.me/251948100497)** |
+| 💼 | **[LinkedIn Profile](https://www.linkedin.com/in/beshah-ashenafi)** |
+| 🔗 | **[Upwork Profile](https://www.upwork.com/freelancers/~01beshah)** |
+| 📍 | **Addis Ababa, Ethiopia** |
+| 🕒 | **GMT+3 (EAT)** |
 
 <br/>
 
-<img src="https://img.shields.io/badge/🌍%20Remote%20Work%20Ready-success?style=flat-square&logo=zoom&logoColor=white" />
-<img src="https://img.shields.io/badge/⏰%20Quick%20Response-blue?style=flat-square&logo=rocket&logoColor=white" />
+[![Email](https://img.shields.io/badge/📧%20Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beshah2017@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshah-ashenafi)
 
 </td>
 </tr>
@@ -322,21 +474,23 @@ const beshah = {
 
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="200">
 </td>
-<td align="center">
+<td align="center" width="34%">
 
-### ⭐ Found something interesting? 
+### ⭐ Enjoying My Work? 
 
-<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/⭐%20Star%20My%20Repositories-FFD700?style=for-the-badge&logo=github&logoColor=black" />
 
-**Let's create something extraordinary together!**
+**Let's build something extraordinary together!**
 
 <img src="https://img.shields.io/badge/🚀%20Ready%20to%20Collaborate-FF6B6B?style=for-the-badge&logoColor=white" />
 
+### 🎯 **Open to exciting opportunities!**
+
 </td>
-<td align="center">
+<td align="center" width="33%">
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200">
 </td>
 </tr>
@@ -344,14 +498,25 @@ const beshah = {
 
 <br/>
 
-> ### 💡 *"Great UI is invisible. Great UX is unforgettable."*
+> ### 💡 *"Great UI is invisible. Great UX is unforgettable. Great code is maintainable."*
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!;Let's+build+the+future+together!;Keep+creating+amazing+experiences!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70a5fd&center=true&vCenter=true&width=800&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing+together!;Always+learning%2C+always+growing!;Frontend+development+is+my+passion!" alt="Footer Typing SVG" />
 
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2025 Beshah Ashenafi **
+
+![GitHub last commit](https://img.shields.io/github/last-commit/beshah80/beshah80?style=flat&color=blue)
+![Profile README](https://img.shields.io/badge/Profile%20README-Updated-success?style=flat)
 
 </div>
