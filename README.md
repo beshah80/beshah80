@@ -448,7 +448,7 @@ const besnahDeveloperProfile = {
 |:---:|:---|
 | 📧 | **[beshah2017@gmail.com](mailto:beshah2017@gmail.com)** |
 | 💬 | **[WhatsApp: +251948100497](https://wa.me/251948100497)** |
-| 💼 | **[LinkedIn Profile](https://www.linkedin.com/in/beshah-ashenafi)** |
+| 💼 | **[LinkedIn Profile](https://www.linkedin.com/in/beshah-ashenafi-a21743367/)** |
 | 🔗 | **[Upwork Profile](https://www.upwork.com/freelancers/~01beshah)** |
 | 📍 | **Addis Ababa, Ethiopia** |
 | 🕒 | **GMT+3 (EAT)** |
