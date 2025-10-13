@@ -492,7 +492,7 @@ const besnahDeveloperProfile = {
 
 <br/>
 
-> ### 💡 *"Great UI is invisible. Great UX is unforgettable. Great code is maintainable."*
+> ### 💡 *" Great code is maintainable."*
 
 <br/>
 
