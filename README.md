@@ -36,10 +36,8 @@
 
 - 🎓 **4th-year Information Systems** student at Addis Ababa University
 - 🎨 **Frontend Developer** with **2 years** of hands-on experience
-- ⚛️ **React.js & Next.js Specialist** creating scalable web applications
-- ✨ **UI/UX Expert** with pixel-perfect design implementation skills
+- ⚛️ **React.js & Next.js ** creating scalable web applications
 - 🌟 **Responsive Design** and **Modern Web Standards** advocate  
-- 🌍 **Bilingual Professional** - English ↔ Amharic translation services
 - 🚀 **Open Source Contributor** passionate about community-driven development
 - 💡 **Problem Solver** transforming complex ideas into elegant solutions
 
