@@ -2,7 +2,7 @@
 
 # Hi there, I'm Beshah Ashenafi 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js+Expert;UI%2FUX+Specialist;Digital+Experience+Creator;Modern+Web+Architect" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+%26+Next.js;" alt="Typing SVG" />
 
 ### 🎓 Information Systems Student | 🎨 Frontend Developer 
 *Crafting beautiful, interactive experiences that users love*
