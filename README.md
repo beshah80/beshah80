@@ -417,7 +417,6 @@ const besnahDeveloperProfile = {
 |:---:|:---|
 | 🎨 | **Frontend Development Projects** |
 | ⚛️ | **React & Next.js Specializations** |
-| ✨ | **UI/UX Design & Implementation** |
 | 🏢 | **Full-time Frontend Positions** |
 | 🚀 | **Freelance Web Development** |
 | 🤝 | **Open Source Collaborations** |
