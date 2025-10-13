@@ -59,17 +59,14 @@
 ![Next.js](https://img.shields.io/badge/Next.js-Expert-000000?style=flat&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Proficient-3178C6?style=flat&logo=typescript&logoColor=white)
 
-### 🎯 UI/UX & Design
-<img src="https://skillicons.dev/icons?i=figma,photoshop,xd,illustrator&theme=dark" />
-
 ### ⚡ Modern JavaScript Ecosystem
-<img src="https://skillicons.dev/icons?i=typescript,nodejs,npm,yarn,webpack,vite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=typescript,npm,vite&theme=dark" />
 
 ### 🛠️ Development & Deployment
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 
 ### 🗄️ Backend & Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,prisma,php&theme=dark" />
 
 </div>
 
