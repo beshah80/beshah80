@@ -10,4 +10,4 @@ I specialize in building **scalable, high-performance web applications** using:
 
 ---
 
-🔗 **Portfolio:** [beshah-portfolio.vercel.app](https://beshah-portfolio.vercel.app/)
+🔗 **Portfolio:** [https://beshah.vercel.app/](https://beshah.vercel.app/)
