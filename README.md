@@ -26,12 +26,11 @@ Building scalable systems that solve real-world problems. Currently focused on *
 - **Frontend**: Next.js, React, TypeScript, TailwindCSS  
 - **DevOps**: Docker, Vercel, Railway, GitHub Actions  
 
-**Currently Building**: AddisTransport - Real-time bus tracking  
 **Email**: beshah.ashenafi369@gmail.com
 
 <br>
 
-## 🏆 Featured Project
+## 🔨 Current Project
 
 <div align="center">
 
