@@ -1,90 +1,88 @@
-# 👋 Hi there, I'm **Beshah Ashenafi**
+<div align="center">
 
-[![Profile views](https://komarev.com/ghpvc/?username=beshah80&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/beshah80)
+# Hi there, I'm Beshah Ashenafi 👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI%2FUX+Designer;Full+Stack+Engineer;Real-Time+Systems+Architect)](https://git.io/typing-svg)
+
+**Building performant systems, intuitive user interfaces, and scalable architectures.**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=Web&logoColor=white)](https://beshah.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beshah-ashenafi/)
+
+</div>
 
 ---
 
-## 💻 Full Stack Developer | 🚀 Tech Enthusiast | 🎨 UI Explorer
+### 👨‍💻 Professional Overview
 
-I specialize in building **scalable, high-performance web applications** and love crafting seamless and visually compelling user experiences.
+* 🔭 **Currently Focused:** Scaling real-time transport tracking systems and modern React/Next.js applications.
+* 🎨 **Design Philosophy:** Clean, accessible, and high-performance UI/UX.
+* ⚙️ **Current Stack:** React, Next.js, TypeScript, Tailwind, Node.js, and PostgreSQL.
+* 📫 **Connect:** Reach out via [LinkedIn](https://www.linkedin.com/in/beshah-ashenafi/) for collaborations.
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top">
+<details open>
+<summary><b>Frontend & Design</b></summary>
+<br/>
   
-<strong>Frontend</strong><br>
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="20" /> Next.js  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" /> React  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20" /> TypeScript  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="20" /> Tailwind CSS  
-- Framer Motion  
-</td>
-<td valign="top">
-  
-<strong>Backend</strong><br>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20" /> Node.js  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20" /> Express  
-- Supabase  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20" /> PostgreSQL  
-- Prisma  
-- Socket.IO  
-</td>
-<td valign="top">
-  
-<strong>Version Control</strong><br>
-
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20" /> Git  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" /> GitHub  
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 Featured Project (In Progress)
-
-**Public Bus Tracking & Scheduling**  
-🌐 [Demo Link](https://public-bus-tracking-and-scheduling.vercel.app/)  
-_Status: Work in progress – stay tuned for updates!_
-
----
-
-## 🏆 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshah80&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=beshah80&theme=radical" alt="GitHub Streak" height="150"/>
-</p>
-
----
-
-## 🌐 Portfolio
-
-- [beshah.vercel.app](https://beshah.vercel.app/)
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/beshah-ashenafi/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-</p>
-
----
-
-<details>
-  <summary>✨ Fun Fact</summary>
-  <p>
-    I love exploring new technologies, collaborating on open-source, and building projects that make a difference!
-  </p>
 </details>
+
+<details open>
+<summary><b>Backend & Infrastructure</b></summary>
+<br/>
+
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>Tools & Real-time</b></summary>
+<br/>
+
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</details>
+
+---
+
+### 🚀 Featured Project
+
+<div align="center">
+  
+### 🚌 Public Bus Tracking & Scheduling System
+*A real-time transport tracking system designed to improve urban mobility and passenger experience.*
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
+</p>
+
+<a href="https://public-bus-tracking-and-scheduling.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌍_View_Live_Demo-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<p><sub><i>Note: Repository is private. Technical breakdown available upon request.</i></sub></p>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=100&section=footer" width="100%"/>
+</div>
