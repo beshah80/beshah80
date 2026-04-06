@@ -16,7 +16,7 @@
 
 <br>
 
-## 🚀 About Me
+<h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🚀 ABOUT ME</h2>
 
 **Full Stack Developer | Problem Solver | Ethiopia 🇪🇹**
 
@@ -30,7 +30,7 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 <br>
 
-## 🔨 Current Project
+<h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🔨 CURRENT PROJECT</h2>
 
 <div align="center">
 
@@ -46,7 +46,7 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 <br>
 
-## 🛠️ Tech Stack
+<h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🛠️ TECH STACK</h2>
 
 <div align="center">
 
@@ -63,7 +63,7 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 <br>
 
-## 🤝 Connect
+<h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🤝 CONNECT</h2>
 
 <div align="center">
 
