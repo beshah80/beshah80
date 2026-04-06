@@ -40,8 +40,6 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 *Real-time bus tracking and scheduling system for public transport*
 
-<img src="./assets/project.png" alt="AddisTransport" width="80%" style="border-radius: 12px;">
-
 </div>
 
 <br>
