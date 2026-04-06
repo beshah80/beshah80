@@ -31,26 +31,6 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="180">
-
-</div>
-
-<br>
-
-## 🔥 Streak & Activity
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=beshah80&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=00d4aa&ring=a855f7&fire=ff6b6b&currStreakLabel=00d4aa" alt="GitHub Streak">
-
-</div>
-
-<br>
-
 ## 🏆 Featured Project
 
 <div align="center">
