@@ -27,30 +27,54 @@
     <path d="M1050 300 L1100 300 L1100 250 L1150 250"/>
     <circle cx="1050" cy="300" r="3" fill="#a855f7"/>
     <circle cx="1150" cy="250" r="3" fill="#a855f7"/>
-    <path d="M80 350 L80 400 L130 400"/>
-    <circle cx="80" cy="350" r="3" fill="#00d4aa"/>
-    <circle cx="130" cy="400" r="3" fill="#00d4aa"/>
   </g>
 
   <rect x="2" y="2" width="1196" height="436" rx="10" fill="none" stroke="url(#lineGrad)" stroke-width="2" opacity="0.6"/>
   <rect x="150" y="215" width="900" height="2" fill="url(#lineGrad)" filter="url(#glow)"/>
 
-  <text x="600" y="175" text-anchor="middle" font-family="system-ui, sans-serif" font-size="56" font-weight="700" fill="#ffffff" letter-spacing="8">BESHAH ASHENAFI</text>
-  <text x="600" y="245" text-anchor="middle" font-family="system-ui, sans-serif" font-size="18" fill="#8b949e" letter-spacing="6">FULL STACK DEVELOPER</text>
+  <!-- BESHAH ASHENAFI -->
+  <g transform="translate(600, 175)" fill="#ffffff">
+    <path d="M-355 -20 L-355 -50 L-325 -50 Q-315 -50 -315 -40 Q-315 -32 -323 -30 L-323 -20 Z M-340 -45 L-340 -35 L-330 -35 Q-325 -35 -325 -40 Q-325 -45 -330 -45 Z" transform="translate(0, 5)"/>
+    <path d="M-305 -50 L-305 -20 L-275 -20 L-275 -25 L-298 -25 L-298 -32 L-280 -32 L-280 -38 L-298 -38 L-298 -45 L-275 -45 L-275 -50 Z" transform="translate(0, 5)"/>
+    <path d="M-250 -50 Q-265 -50 -265 -40 Q-265 -32 -252 -30 L-240 -28 Q-230 -26 -230 -20 Q-230 -15 -245 -15 Q-258 -15 -262 -22 L-268 -18 Q-260 -8 -245 -8 Q-220 -8 -220 -22 Q-220 -35 -238 -38 L-250 -40 Q-258 -41 -258 -47 Q-258 -52 -245 -52 Q-232 -52 -228 -45 L-222 -48 Q-228 -58 -245 -58 Q-265 -58 -265 -45 Q-265 -35 -248 -32 Z" transform="translate(0, 5)"/>
+    <path d="M-210 -50 L-210 -20 L-195 -20 L-195 -35 L-165 -35 L-165 -20 L-150 -20 L-150 -50 L-165 -50 L-165 -40 L-195 -40 L-195 -50 Z" transform="translate(0, 5)"/>
+    <path d="M-135 -50 L-120 -20 L-105 -20 L-90 -50 L-105 -50 L-112 -35 L-113 -32 L-138 -50 Z M-120 -40 L-125 -50 L-115 -40 Z" transform="translate(0, 5)"/>
+    <path d="M-75 -50 L-75 -20 L-60 -20 L-60 -35 L-30 -35 L-30 -20 L-15 -20 L-15 -50 L-30 -50 L-30 -40 L-60 -40 L-60 -50 Z" transform="translate(0, 5)"/>
+    <path d="M15 -50 L30 -20 L45 -20 L60 -50 L45 -50 L38 -35 L37 -32 L12 -50 Z M30 -40 L25 -50 L35 -40 Z" transform="translate(0, 5)"/>
+    <path d="M65 -50 Q50 -50 50 -40 Q50 -32 63 -30 L75 -28 Q85 -26 85 -20 Q85 -15 70 -15 Q57 -15 53 -22 L47 -18 Q55 -8 70 -8 Q95 -8 95 -22 Q95 -35 77 -38 L65 -40 Q57 -41 57 -47 Q57 -52 70 -52 Q83 -52 87 -45 L93 -48 Q87 -58 70 -58 Q50 -58 50 -45 Q50 -35 67 -32 Z" transform="translate(0, 5)"/>
+    <path d="M105 -50 L105 -20 L120 -20 L120 -35 L150 -35 L150 -20 L165 -20 L165 -50 L150 -50 L150 -40 L120 -40 L120 -50 Z" transform="translate(0, 5)"/>
+    <path d="M175 -50 L175 -20 L205 -20 L205 -25 L182 -25 L182 -32 L200 -32 L200 -38 L182 -38 L182 -45 L205 -45 L205 -50 Z" transform="translate(0, 5)"/>
+    <path d="M215 -50 L215 -20 L230 -20 L255 -40 L255 -20 L270 -20 L270 -50 L255 -50 L230 -30 L230 -50 Z" transform="translate(0, 5)"/>
+    <path d="M285 -50 L300 -20 L315 -20 L330 -50 L315 -50 L308 -35 L307 -32 L282 -50 Z M300 -40 L295 -50 L305 -40 Z" transform="translate(0, 5)"/>
+    <path d="M345 -50 L345 -20 L360 -20 L360 -32 L380 -32 L380 -38 L360 -38 L360 -45 L385 -45 L385 -50 Z" transform="translate(0, 5)"/>
+    <path d="M395 -50 L395 -20 L410 -20 L410 -50 Z" transform="translate(0, 5)"/>
+  </g>
 
+  <!-- FULL STACK DEVELOPER -->
+  <g transform="translate(600, 245)" fill="#8b949e">
+    <path d="M-215 0 L-215 -12 L-205 -12 L-205 0 Z M-200 -6 L-195 -12 L-190 -6 L-185 -12 L-180 -6 L-175 -12 L-170 -6" stroke="#8b949e" stroke-width="1.5" fill="none"/>
+    <text x="0" y="0" text-anchor="middle" font-family="monospace" font-size="14" letter-spacing="4">FULL STACK DEVELOPER</text>
+  </g>
+
+  <!-- Tech pills with geometric text -->
   <g transform="translate(600, 310)">
     <rect x="-240" y="0" width="75" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="-202" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#00d4aa" font-weight="500">NEXT.JS</text>
+    <path d="M-225 19 L-225 10 L-215 10 L-215 19 M-220 14 L-212 14 M-212 19 L-212 10 L-202 10 L-202 14 L-210 14 L-210 19 L-202 19 M-198 19 L-198 10 L-188 10 L-188 14 L-196 14 L-188 14 L-188 19 L-198 19 M-184 10 L-174 10 L-174 14 L-182 14 L-174 14 L-174 19 L-184 19" stroke="#00d4aa" stroke-width="1.2" fill="none"/>
+    
     <rect x="-155" y="0" width="55" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="-127" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#61dafb" font-weight="500">REACT</text>
+    <path d="M-145 19 L-140 10 L-135 19 M-142 16 L-138 16 M-130 19 L-130 10 L-120 10 L-120 14 L-128 14 L-120 14 L-120 19 L-130 19" stroke="#61dafb" stroke-width="1.2" fill="none"/>
+    
     <rect x="-90" y="0" width="85" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="-47" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#3178c6" font-weight="500">TYPESCRIPT</text>
+    <path d="M-75 10 L-75 19 M-70 10 L-65 19 L-60 10 M-67 16 L-63 16 M-55 19 L-55 10 L-45 10 L-45 14 L-53 14 L-45 14 L-45 19 L-55 19 M-41 10 L-31 10 L-31 14 L-39 14 L-31 14 L-31 19 L-41 19 M-27 10 L-17 10 L-17 14 L-25 14 L-17 14 L-17 19 L-27 19" stroke="#3178c6" stroke-width="1.2" fill="none"/>
+    
     <rect x="5" y="0" width="65" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="37" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#339933" font-weight="500">NODE.JS</text>
+    <path d="M15 19 L15 10 L25 10 L25 14 L17 14 L25 14 L25 19 L15 19 M30 10 L30 19 M32 12 L38 12 M40 10 L40 19 L50 19 L50 14 L42 14 L50 14 L50 10 L40 10" stroke="#339933" stroke-width="1.2" fill="none"/>
+    
     <rect x="80" y="0" width="85" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="122" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#4169e1" font-weight="500">POSTGRESQL</text>
+    <path d="M95 19 L95 10 L105 10 L105 14 L97 14 L105 14 L105 19 L95 19 M110 10 L110 19 M112 12 L118 12 M120 10 L120 19 L130 19 L130 14 L122 14 L130 14 L130 10 L120 10 M135 10 L135 19 L145 19 L145 14 L137 14 L145 14 L145 10 L135 10" stroke="#4169e1" stroke-width="1.2" fill="none"/>
+    
     <rect x="175" y="0" width="75" height="28" rx="14" fill="#21262d" stroke="#30363d" stroke-width="1"/>
-    <text x="212" y="19" text-anchor="middle" font-family="system-ui, monospace" font-size="12" fill="#a855f7" font-weight="500">SOCKET.IO</text>
+    <path d="M190 19 L190 10 L200 10 L200 14 L192 14 L200 14 L200 19 L190 19 M205 10 L205 19 M207 12 L213 12 M215 10 L215 19 L225 19 L225 14 L217 14 L225 14 L225 10 L215 10 M230 19 L235 10 L240 19 M233 16 L237 16" stroke="#a855f7" stroke-width="1.2" fill="none"/>
   </g>
 
   <circle cx="150" cy="216" r="4" fill="#00d4aa" filter="url(#glow)"/>
