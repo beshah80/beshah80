@@ -37,6 +37,7 @@ Building scalable systems that solve real-world problems. Currently focused on *
 ### 🚌 AddisTransport
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-10B981?style=for-the-badge)](https://public-bus-tracking-and-scheduling.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/beshah80)
 
 *Real-time bus tracking and scheduling system for public transport*
 
