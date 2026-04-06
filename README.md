@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center">
+<div align="center" style="font-family: 'Chakra Petch', sans-serif;">
 
 <img src="https://komarev.com/ghpvc/?username=beshah80&label=Profile%20Views&color=00d4aa&style=flat" alt="Profile Views">
 <img src="https://img.shields.io/github/followers/beshah80?label=Followers&style=flat&color=a855f7" alt="Followers">
@@ -18,6 +18,8 @@
 
 <h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🚀 ABOUT ME</h2>
 
+<div style="font-family: 'Chakra Petch', sans-serif;">
+
 **Full Stack Developer | Problem Solver | Ethiopia 🇪🇹**
 
 Building scalable systems that solve real-world problems. Currently focused on **public transportation tech** and **real-time tracking systems**.
@@ -28,11 +30,13 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 **Email**: beshah.ashenafi369@gmail.com
 
+</div>
+
 <br>
 
 <h2 align="center" style="font-family: 'Chakra Petch', sans-serif;">🔨 CURRENT PROJECT</h2>
 
-<div align="center">
+<div align="center" style="font-family: 'Chakra Petch', sans-serif;">
 
 ### 🚌 AddisTransport
 
@@ -75,7 +79,7 @@ Building scalable systems that solve real-world problems. Currently focused on *
 
 <br>
 
-<div align="center">
+<div align="center" style="font-family: 'Chakra Petch', sans-serif;">
 
 ⭐ *Building things that matter. Open to collaborations.*
 
