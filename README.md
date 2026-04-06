@@ -18,20 +18,16 @@
 
 ## 🚀 About Me
 
-```typescript
-const beshah = {
-  role: "Full Stack Developer",
-  location: "Ethiopia 🇪🇹",
-  focus: ["Public Transportation Tech", "Real-time Systems", "SaaS"],
-  stack: {
-    backend: ["Node.js", "Express", "PostgreSQL", "Socket.io", "REST APIs"],
-    frontend: ["Next.js", "React", "TypeScript", "TailwindCSS"],
-    devops: ["Docker", "Vercel", "Railway", "GitHub Actions"]
-  },
-  currentlyBuilding: "AddisTransport - Real-time bus tracking",
-  email: "beshah.ashenafi369@gmail.com"
-};
-```
+**Full Stack Developer | Problem Solver | Ethiopia 🇪🇹**
+
+Building scalable systems that solve real-world problems. Currently focused on **public transportation tech** and **real-time tracking systems**.
+
+- **Backend**: Node.js, Express, PostgreSQL, Socket.io, REST APIs  
+- **Frontend**: Next.js, React, TypeScript, TailwindCSS  
+- **DevOps**: Docker, Vercel, Railway, GitHub Actions  
+
+**Currently Building**: AddisTransport - Real-time bus tracking  
+**Email**: beshah.ashenafi369@gmail.com
 
 <br>
 
@@ -40,7 +36,6 @@ const beshah = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=beshah80&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=a855f7&text_color=c9d1d9" alt="GitHub Stats" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=beshah80&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages" height="180">
 
 </div>
 
